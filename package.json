@@ -1,7 +1,6 @@
 {
   "name": "discord",
   "version": "0.1.0",
-  "homepage": "https://sa8tyajeet46.github.io",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.5",
@@ -26,7 +25,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "login":"firebase login",
+    "il":"firebase init",
+    "ki":"firebase deploy --only hosting"
   },
   "eslintConfig": {
     "extends": [

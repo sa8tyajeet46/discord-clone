@@ -5,7 +5,8 @@ export default function Header(){
         <div className=" h-full bg-[#295DE7] w-auto ">
             <div className="flex flex-col lg:flex-row   h-full">
             <div className="h-full flex flex-col  space-y-7 lg:justify-center lg:w-3xl px-8 w-auto">
-                <h1 className="text-5xl text-white font-bold">Your place to talk</h1>
+                                <h2 className='text-4xl text-white font-bold'>Click Login to continue...</h2>
+<h1 className="text-5xl text-white font-bold">Your place to talk</h1>
                 <h2 className="text-white gap-7 text-lg font-light w-full lg:max-w-3xl">
                     Whether you're part of a school club ,gaming group,
                     worldwide art community, or just a handful of friends
